@@ -26,4 +26,4 @@ tts.tts_to_file(text="Your example text", file_path="your_filename.wav")
 ```
 
 ## Demo
-My trained model is published on this [HuggingFace space](/huggingface.co/spaces/Namkoy/train_vits_vi). Because of the hardware condition, my model's voice is not very natural, I will try to improve the voice quality in the future :))).
+My trained model is published on this [HuggingFace space](/huggingface.co/spaces/Namkoy/train_vits_vi).
