@@ -26,4 +26,4 @@ tts.tts_to_file(text="Your example text", file_path="your_filename.wav")
 ```
 
 ## Demo
-My trained model is published on this [HuggingFace space](/huggingface.co/spaces/Namkoy/train_vits_vi).
+My trained model is published on this [HuggingFace space](/huggingface.co/spaces/Namkoy/train_vits_vi). Due to the resource factor to train the model, the results achieved are not as expected. The upcoming goal is to collect personal data for implementation voice clone.
